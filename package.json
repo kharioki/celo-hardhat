@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/kharioki/celo-hardhat#readme",
   "dependencies": {
+    "dotenv": "^16.0.0",
     "hardhat": "^2.9.3"
   },
   "devDependencies": {
